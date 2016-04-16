@@ -1,28 +1,40 @@
-name: Zollinger BanjoCraftersCo
-favicon: null
-layout_spectrum: 0.2935032758396119
-typography_spectrum: 0.130149977048859
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 0.5816327
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.0813536518253386
+  brandStrength: 0.5448362559545785
+  rhythmicContrast: 0.7330493975896388
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.5448362559545785
   lightness: 0.3265141439624131
-  saturation: 0.0813536518253386
-  rhythmicContrast: 0.7330493975896388
-purpose: []
+typography_spectrum: 0.5934479
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Zollinger BanjoCraftersCo
