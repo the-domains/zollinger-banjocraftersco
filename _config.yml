@@ -1,8 +1,7 @@
+name: ZollingerBanjoCraftersCo
+favicon: null
 layout_spectrum: 0.5816327
-opengraph:
-  image: null
-  type: null
-  appId: null
+typography_spectrum: 0.5934479
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
-color:
-  saturation: 0.0813536518253386
-  brandStrength: 0.5448362559545785
-  rhythmicContrast: 0.7330493975896388
-  brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  lightness: 0.3265141439624131
-typography_spectrum: 0.5934479
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-favicon: null
-name: Zollinger BanjoCraftersCo
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#a68d6f'
+    - '#b5a897'
+    - '#c8c1b9'
+    - '#412d12'
+    - '#4d463c'
+  brandStrength: 0.5448362559545785
+  lightness: 0.3265141439624131
+  saturation: 0.0813536518253386
+  rhythmicContrast: 0.7330493975896388
+purpose: []
